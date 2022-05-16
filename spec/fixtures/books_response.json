@@ -1,0 +1,224 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "type": "book",
+      "attributes": {
+        "title": "Nectar in a Sieve",
+        "author": "Manuel Frami",
+        "genre": "Science fiction",
+        "summary": "Consequatur similique ea. Qui eos vel. Qui totam nulla.",
+        "number_sold": 10
+      }
+    },
+    {
+      "id": 2,
+      "type": "book",
+      "attributes": {
+        "title": "Dance Dance Dance",
+        "author": "Tianna O'Hara",
+        "genre": "Tall tale",
+        "summary": "Culpa deserunt nostrum. Tempore quod est. Delectus numquam autem.",
+        "number_sold": 6
+      }
+    },
+    {
+      "id": 3,
+      "type": "book",
+      "attributes": {
+        "title": "Time of our Darkness",
+        "author": "Anjelica Terry",
+        "genre": "Fiction narrative",
+        "summary": "Perferendis nemo facilis. Aut odit sapiente. Quo in recusandae.",
+        "number_sold": 2
+      }
+    },
+    {
+      "id": 4,
+      "type": "book",
+      "attributes": {
+        "title": "That Good Night",
+        "author": "Derrick Pfeffer",
+        "genre": "Tall tale",
+        "summary": "Quia doloribus non. Corporis qui nihil. Excepturi nobis voluptatem.",
+        "number_sold": 8
+      }
+    },
+    {
+      "id": 5,
+      "type": "book",
+      "attributes": {
+        "title": "Tiger! Tiger!",
+        "author": "Gerald Wiza",
+        "genre": "Reference book",
+        "summary": "Magnam ipsam vel. Omnis temporibus tenetur. Est enim harum.",
+        "number_sold": 6
+      }
+    },
+    {
+      "id": 6,
+      "type": "book",
+      "attributes": {
+        "title": "Tiger! Tiger!",
+        "author": "Jeromy Russel",
+        "genre": "Fable",
+        "summary": "Modi possimus et. Quia non iusto. Corrupti dolorum ut.",
+        "number_sold": 1
+      }
+    },
+    {
+      "id": 7,
+      "type": "book",
+      "attributes": {
+        "title": "Stranger in a Strange Land",
+        "author": "Kandi Terry VM",
+        "genre": "Mystery",
+        "summary": "Magnam blanditiis et. Nostrum aut cumque. Libero eveniet nemo.",
+        "number_sold": 2
+      }
+    },
+    {
+      "id": 8,
+      "type": "book",
+      "attributes": {
+        "title": "Fair Stood the Wind for France",
+        "author": "Matthew Durgan Esq.",
+        "genre": "Mythology",
+        "summary": "Qui amet harum. Quia quae quo. Similique est voluptatibus.",
+        "number_sold": 9
+      }
+    },
+    {
+      "id": 9,
+      "type": "book",
+      "attributes": {
+        "title": "O Jerusalem!",
+        "author": "Miss Joe Mann",
+        "genre": "Classic",
+        "summary": "Blanditiis nihil consequatur. Doloremque veniam quos. Asperiores natus eum.",
+        "number_sold": 1
+      }
+    },
+    {
+      "id": 10,
+      "type": "book",
+      "attributes": {
+        "title": "The Doors of Perception",
+        "author": "Prof. Hank Little",
+        "genre": "Tall tale",
+        "summary": "Voluptatem quas praesentium. Ut deleniti reiciendis. Quia corrupti consequatur.",
+        "number_sold": 2
+      }
+    },
+    {
+      "id": 11,
+      "type": "book",
+      "attributes": {
+        "title": "Precious Bane",
+        "author": "Anton Parker",
+        "genre": "Metafiction",
+        "summary": "Voluptas ex hic. Dolor ut eveniet. Laudantium sit illo.",
+        "number_sold": 9
+      }
+    },
+    {
+      "id": 12,
+      "type": "book",
+      "attributes": {
+        "title": "Blithe Spirit",
+        "author": "Ted Wilkinson",
+        "genre": "Fable",
+        "summary": "Dolorem consequatur blanditiis. Corrupti voluptate nihil. Alias explicabo dolor.",
+        "number_sold": 2
+      }
+    },
+    {
+      "id": 13,
+      "type": "book",
+      "attributes": {
+        "title": "The Moving Finger",
+        "author": "Hayden Thiel",
+        "genre": "Science fiction",
+        "summary": "Culpa et est. Voluptatem ducimus ea. Dolorum corporis qui.",
+        "number_sold": 8
+      }
+    },
+    {
+      "id": 14,
+      "type": "book",
+      "attributes": {
+        "title": "A Monstrous Regiment of Women",
+        "author": "Maryann Mayert",
+        "genre": "Essay",
+        "summary": "Maxime ut laboriosam. Aut reprehenderit aut. Quam est omnis.",
+        "number_sold": 4
+      }
+    },
+    {
+      "id": 15,
+      "type": "book",
+      "attributes": {
+        "title": "No Longer at Ease",
+        "author": "Cristin Jones",
+        "genre": "Humor",
+        "summary": "Eos est voluptas. Eius quia in. Rerum quia modi.",
+        "number_sold": 8
+      }
+    },
+    {
+      "id": 16,
+      "type": "book",
+      "attributes": {
+        "title": "The Wings of the Dove",
+        "author": "Anamaria Olson",
+        "genre": "Essay",
+        "summary": "Aut quo dolorum. Tenetur dolores alias. Exercitationem ut distinctio.",
+        "number_sold": 6
+      }
+    },
+    {
+      "id": 17,
+      "type": "book",
+      "attributes": {
+        "title": "The Glory and the Dream",
+        "author": "Myrta Rau",
+        "genre": "Realistic fiction",
+        "summary": "Deserunt atque consequatur. Quis cupiditate eum. Minima ipsa impedit.",
+        "number_sold": 4
+      }
+    },
+    {
+      "id": 18,
+      "type": "book",
+      "attributes": {
+        "title": "That Good Night",
+        "author": "Christa Hessel",
+        "genre": "Narrative nonfiction",
+        "summary": "Dolor labore aut. Voluptates id doloribus. Odit et blanditiis.",
+        "number_sold": 10
+      }
+    },
+    {
+      "id": 19,
+      "type": "book",
+      "attributes": {
+        "title": "Time of our Darkness",
+        "author": "Percy Baumbach",
+        "genre": "Textbook",
+        "summary": "Dolor occaecati beatae. Facere deserunt nihil. Dicta magni quas.",
+        "number_sold": 8
+      }
+    },
+    {
+      "id": 20,
+      "type": "book",
+      "attributes": {
+        "title": "A Confederacy of Dunces",
+        "author": "Msgr. Dee Greenholt",
+        "genre": "Realistic fiction",
+        "summary": "Commodi dolore laudantium. Pariatur vel et. Illo sed eaque.",
+        "number_sold": 4
+      }
+    }
+  ]
+}
