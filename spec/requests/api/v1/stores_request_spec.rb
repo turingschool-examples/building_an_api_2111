@@ -6,7 +6,8 @@ RSpec.describe 'The Stores API' do
 
     get '/api/v1/stores'
 
-    stores = JSON.parse(response.body, symbolize_names: true)
+    response_body = JSON.parse(response.body, symbolize_names: true)
+    stores = response_body[:data]
 
     expect(response).to be_successful
     expect(stores.count).to eq(3)
@@ -15,8 +16,15 @@ RSpec.describe 'The Stores API' do
       expect(store).to have_key(:id)
       expect(store[:id]).to be_an(Integer)
 
-      expect(store).to have_key(:name)
-      expect(store[:name]).to be_a(String)
+      expect(store[:type]).to eq('store')
+
+      expect(store[:attributes]).to have_key(:name)
+      expect(store[:attributes][:name]).to be_a(String)
+
+      expect(store[:attributes]).to have_key(:num_books)
+      expect(store[:attributes][:num_books]).to be_a(Integer)
+
+      expect(store[:relationships]).to have_key(:books)
     end
   end
 
