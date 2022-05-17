@@ -1,0 +1,27 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "type": "store",
+      "attributes": {
+        "name": "Toy, Steuber and Schinner",
+        "num_books": 8
+      },
+      "relationships": {
+        "books": {
+          "data": [
+            {
+              "id": "1",
+              "type": "book"
+            },
+            {
+              "id": "4",
+              "type": "book"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
+
