@@ -1,5 +1,5 @@
 class Api::V1::BooksController < ApplicationController
   def index
-    render json: Book.all
+    render json: BooksSerializer.format_books(Book.all), status: :ok
   end
 end
